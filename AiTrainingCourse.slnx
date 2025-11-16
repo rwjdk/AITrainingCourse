@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Exercises/Exercises.csproj" />
+  <Project Path="FinishedSolution/FinishedSolution.csproj" />
+</Solution>
